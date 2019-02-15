@@ -1,4 +1,2 @@
-model_checkpoint_path: "cnn_mnist_simple.ckpt-4"
-all_model_checkpoint_paths: "cnn_mnist_simple.ckpt-2"
-all_model_checkpoint_paths: "cnn_mnist_simple.ckpt-3"
-all_model_checkpoint_paths: "cnn_mnist_simple.ckpt-4"
+model_checkpoint_path: "cnn_mnist_simple.ckpt-0"
+all_model_checkpoint_paths: "cnn_mnist_simple.ckpt-0"
